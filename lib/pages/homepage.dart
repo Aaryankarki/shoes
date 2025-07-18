@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:shoes/pages/card_list.dart';
 import 'package:shoes/pages/product_list.dart';
 
+
+//homepage
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
 
