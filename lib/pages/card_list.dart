@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:shoes/providers/cart_provider.dart';
-
+// add to card page
 class CardPage extends StatefulWidget {
   const CardPage({super.key});
 
